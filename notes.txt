@@ -1,0 +1,9 @@
+- build out adj matrix first -> output to csv then correct/compare with lyrics 
+- within a song, how do we measure how close a word is compare to other words
+- what do i want the input to look like -> how should we clean
+- NLP?? (positive/negative)
+    - check what openai (chat) can do?
+    - LLAMA 
+- visualization
+    - NetworkX vs. Unity (what i've seen lague do)
+- search lyrics as paths 
